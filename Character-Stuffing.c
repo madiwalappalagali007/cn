@@ -30,4 +30,5 @@ main()
  strcat(fs, y);
  printf("\n After stuffing:%s", fs);
  getch();
+}
   
